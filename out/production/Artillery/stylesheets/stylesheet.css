@@ -1,0 +1,50 @@
+#topBarBack {
+    -fx-background-color: wheat;
+    -webkit-fx-color: red;
+    -moz-fx-color: red;
+    -ms-fx-color: red;
+    -o-fx-color: red;
+    fx-color: red;
+    -fx-pref-width: 250px;
+}
+
+#topBarBack:hover {
+    -fx-background-color: white;
+    -fx-cursor: hand;
+}
+
+#topBarSave {
+    -fx-background-color: wheat;
+    -webkit-fx-color: red;
+    -moz-fx-color: red;
+    -ms-fx-color: red;
+    -o-fx-color: red;
+    fx-color: red;
+    -fx-pref-width: 250px;
+}
+
+#topBarSave:hover {
+    -fx-background-color: white;
+    -fx-cursor: hand;
+}
+
+#startButton {
+    -fx-background-color: wheat;
+    -fx-cursor: hand;
+    -webkit-fx-color: red;
+    -moz-fx-color: red;
+    -ms-fx-color: red;
+    -o-fx-color: red;
+    fx-color: red;;
+}
+
+#startButton:hover {
+    -fx-background-color: white;
+}
+
+.text-field {
+    -fx-background-color: wheat;
+}
+.text-field:hover {
+    -fx-background-color: white;
+}
